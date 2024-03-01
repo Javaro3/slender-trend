@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlenderTrend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c150c6b9a13a9d58aeddbb5f81382e5af121cbd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlenderTrend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlenderTrend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

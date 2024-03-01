@@ -3,27 +3,35 @@
   "WorkspaceRootPath": "D:\\file\\SlenderTrend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\viewmodels\\filtersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\viewmodels\\filtersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\viewmodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\viewmodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\controllers\\totalchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\controllers\\totalchatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|D:\\file\\SlenderTrend\\slendertrend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|D:\\file\\SlenderTrend\\slendertrend\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\controllers\\responsetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|D:\\file\\SlenderTrend\\slendertrend\\controllers\\responsetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\controllers\\responsetimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\controllers\\durationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|D:\\file\\SlenderTrend\\slendertrend\\controllers\\durationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\controllers\\durationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|d:\\file\\slendertrend\\slendertrend\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|D:\\file\\SlenderTrend\\slendertrend\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6E5363-733A-4B35-A784-077E7B96CBC2}|SlenderTrend\\SlenderTrend.csproj|solutionrelative:slendertrend\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiltersModel.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\FiltersModel.cs",
+              "RelativeDocumentMoniker": "Domains\\ViewModels\\FiltersModel.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\FiltersModel.cs",
+              "RelativeToolTip": "Domains\\ViewModels\\FiltersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:21:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\RequestModel.cs",
+              "RelativeDocumentMoniker": "Domains\\ViewModels\\RequestModel.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\RequestModel.cs",
+              "RelativeToolTip": "Domains\\ViewModels\\RequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:21:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Program.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Program.cs",
@@ -46,25 +80,24 @@
               "RelativeToolTip": "SlenderTrend\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:36:03.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:36:03.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TotalChatController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\TotalChatController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\TotalChatController.cs",
               "ToolTip": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\TotalChatController.cs",
               "RelativeToolTip": "SlenderTrend\\Controllers\\TotalChatController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T12:32:55.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TagController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\TagController.cs",
@@ -72,12 +105,11 @@
               "RelativeToolTip": "SlenderTrend\\Controllers\\TagController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:32:54.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:32:54.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ResponseTimeController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\ResponseTimeController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\ResponseTimeController.cs",
@@ -85,12 +117,11 @@
               "RelativeToolTip": "SlenderTrend\\Controllers\\ResponseTimeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:32:54.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:32:54.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DurationController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\DurationController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\DurationController.cs",
@@ -98,12 +129,11 @@
               "RelativeToolTip": "SlenderTrend\\Controllers\\DurationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:32:53.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:32:53.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RatingController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\RatingController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\RatingController.cs",
@@ -111,8 +141,7 @@
               "RelativeToolTip": "SlenderTrend\\Controllers\\RatingController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:32:52.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T12:32:52.488Z"
             }
           ]
         }
