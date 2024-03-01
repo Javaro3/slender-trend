@@ -1,0 +1,6 @@
+@SlenderTrend_HostAddress = http://localhost:5254
+
+GET {{SlenderTrend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

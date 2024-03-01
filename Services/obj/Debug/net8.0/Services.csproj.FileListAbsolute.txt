@@ -1,0 +1,17 @@
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Services.deps.json
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Services.dll
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Services.pdb
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Domains.dll
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Repository.dll
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Domains.pdb
+D:\file\SlenderTrend\Services\bin\Debug\net8.0\Repository.pdb
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.dll
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\refint\Services.dll
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\Services.pdb
+D:\file\SlenderTrend\Services\obj\Debug\net8.0\ref\Services.dll

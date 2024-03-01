@@ -1,0 +1,207 @@
+[
+  {
+    "ContainingType": "SlenderTrend.Controllers.DurationController",
+    "Method": "Get",
+    "RelativePath": "duration-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Distribution",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.From",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.To",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.Groups.Values",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domains.ViewModels.DurationsViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SlenderTrend.Controllers.RatingController",
+    "Method": "Get",
+    "RelativePath": "ratings-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Distribution",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.From",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.To",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.Groups.Values",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domains.ViewModels.RatingsViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SlenderTrend.Controllers.ResponseTimeController",
+    "Method": "Get",
+    "RelativePath": "response-time-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Distribution",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.From",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.To",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.Groups.Values",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domains.ViewModels.ResponseTimesViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SlenderTrend.Controllers.TagController",
+    "Method": "Get",
+    "RelativePath": "tags-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Distribution",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.From",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.To",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.Groups.Values",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domains.ViewModels.TagsViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SlenderTrend.Controllers.TotalChatController",
+    "Method": "Get",
+    "RelativePath": "total-chats-report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Distribution",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.From",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.To",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Filter.Groups.Values",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domains.ViewModels.TotalChatsViewModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
