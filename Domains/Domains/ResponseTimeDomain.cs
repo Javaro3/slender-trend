@@ -10,6 +10,8 @@ public class ResponseTimeDomain {
     public DateTime Date { get; set; }
 
     public int Count { get; set; }
+    
+    [JsonPropertyName("response_time")]
 
     public double ResponseTime { get; set; }
 }

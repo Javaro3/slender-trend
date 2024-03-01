@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "D:\\file\\SlenderTrend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|D:\\file\\SlenderTrend\\domains\\viewmodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\domains\\totalchatdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\domains\\totalchatdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\domains\\tagdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\domains\\tagdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\domains\\responsetimedomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\domains\\responsetimedomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\domains\\ratingdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\domains\\ratingdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\domains\\durationdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\domains\\durationdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\viewmodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\viewmodels\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|d:\\file\\slendertrend\\domains\\viewmodels\\filtersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|D:\\file\\SlenderTrend\\domains\\viewmodels\\filtersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B1987D-F870-4904-9BAE-A5F25C42E8EB}|Domains\\Domains.csproj|solutionrelative:domains\\viewmodels\\filtersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,11 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TotalChatDomain.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\Domains\\TotalChatDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Domains\\TotalChatDomain.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\Domains\\TotalChatDomain.cs",
+              "RelativeToolTip": "Domains\\Domains\\TotalChatDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:06:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TagDomain.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\Domains\\TagDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Domains\\TagDomain.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\Domains\\TagDomain.cs",
+              "RelativeToolTip": "Domains\\Domains\\TagDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:06:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseTimeDomain.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\Domains\\ResponseTimeDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Domains\\ResponseTimeDomain.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\Domains\\ResponseTimeDomain.cs",
+              "RelativeToolTip": "Domains\\Domains\\ResponseTimeDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:06:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RatingDomain.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\Domains\\RatingDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Domains\\RatingDomain.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\Domains\\RatingDomain.cs",
+              "RelativeToolTip": "Domains\\Domains\\RatingDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:06:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DurationDomain.cs",
+              "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\Domains\\DurationDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\Domains\\DurationDomain.cs",
+              "ToolTip": "D:\\file\\SlenderTrend\\Domains\\Domains\\DurationDomain.cs",
+              "RelativeToolTip": "Domains\\Domains\\DurationDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:05:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FiltersModel.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\FiltersModel.cs",
               "RelativeDocumentMoniker": "Domains\\ViewModels\\FiltersModel.cs",
@@ -54,12 +139,11 @@
               "RelativeToolTip": "Domains\\ViewModels\\FiltersModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T13:21:31.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-01T13:21:31.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RequestModel.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\Domains\\ViewModels\\RequestModel.cs",
               "RelativeDocumentMoniker": "Domains\\ViewModels\\RequestModel.cs",
@@ -72,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Program.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Program.cs",
@@ -84,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "TotalChatController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\TotalChatController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\TotalChatController.cs",
@@ -96,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TagController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\TagController.cs",
@@ -108,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ResponseTimeController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\ResponseTimeController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\ResponseTimeController.cs",
@@ -120,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "DurationController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\DurationController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\DurationController.cs",
@@ -132,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "RatingController.cs",
               "DocumentMoniker": "D:\\file\\SlenderTrend\\SlenderTrend\\Controllers\\RatingController.cs",
               "RelativeDocumentMoniker": "SlenderTrend\\Controllers\\RatingController.cs",
