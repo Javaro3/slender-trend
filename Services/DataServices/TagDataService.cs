@@ -12,8 +12,8 @@ namespace Services.DataServices {
         public TagsViewModel GetAll(RequestModel request) {
             var tags = _repository
                 .GetAll()
-                .Where(e => e.Date.CompareTo(request.Filter.From) >= 0)
-                .Where(e => e.Date.CompareTo(request.Filter.To) <= 0);
+                .Where(e => e.Date.CompareTo(request.Filters.From) >= 0)
+                .Where(e => e.Date.CompareTo(request.Filters.To) <= 0);
 
             var total = tags.Select(e => e.Count).Sum();
 
